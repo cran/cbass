@@ -1,0 +1,11 @@
+2681b1186635a3e152ad3c5c67296db0 *DESCRIPTION
+fccde1b013493c766577f45801970bc4 *NAMESPACE
+975987aecaa590d0115bc702fb59364b *R/estimation_functions.R
+9eccd365423589d90da19f325b1d7928 *R/helper_functions.R
+3872eb955398aa64bd3dedf98cd195e5 *R/prediction_functions_v2.R
+63ff20db7ca5cae5535f3779bdb2aac3 *R/sampling_functions.R
+d96098ebf5fe4c97aad141a9555206ef *man/augment.X.Rd
+160ff55a7f4d0c795db278e9ee6ee337 *man/fit.cbass.Rd
+3a8c8353f3dffe821f45755808b6a768 *man/p.mu.Rd
+0d5c42c49c488864305cbe90e2ece794 *man/pred.cbass.Rd
+67c07671675c16149dfd6b02ea5bc626 *man/sample.z.Rd
